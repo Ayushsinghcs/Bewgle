@@ -1,0 +1,28 @@
+img {
+    width: 25%;
+    /* alignment: left; */
+}
+.caption {
+text-align: center;
+margin: 0 auto;
+
+}
+.border{
+   /* border:1px solid black; */
+   text-align: center;
+   margin:15px;
+
+}
+.card .card-title {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.text-ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /* border:1px solid black; */
+
+}
+/* .thumbnail { background-color: LightGray;} */
