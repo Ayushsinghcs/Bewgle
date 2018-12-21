@@ -1,2 +1,2 @@
 # Bewgle
-Http request implimentation using Agular
+Http request implimentation using Angular
